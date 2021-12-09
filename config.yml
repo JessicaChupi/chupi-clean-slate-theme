@@ -1,0 +1,6 @@
+dev2_jess_base_theme:
+  password: ${CHUPI_DEV2_API_PASSWORD}
+  theme_id: ${CHUPI_DEV2_JESS_BASE_THEMEID}
+  store: ${CHUPI_DEV2_STORE}
+  ignore_files:
+  - config/*
